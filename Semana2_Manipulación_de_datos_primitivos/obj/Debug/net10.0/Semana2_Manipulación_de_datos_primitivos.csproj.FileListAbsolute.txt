@@ -1,0 +1,15 @@
+C:\Users\SANTI\Documents\GitHub\ESTRUCTURA-DE-DATOS\Semana2_Manipulación_de_datos_primitivos\bin\Debug\net10.0\Semana2_Manipulación_de_datos_primitivos.exe
+C:\Users\SANTI\Documents\GitHub\ESTRUCTURA-DE-DATOS\Semana2_Manipulación_de_datos_primitivos\bin\Debug\net10.0\Semana2_Manipulación_de_datos_primitivos.deps.json
+C:\Users\SANTI\Documents\GitHub\ESTRUCTURA-DE-DATOS\Semana2_Manipulación_de_datos_primitivos\bin\Debug\net10.0\Semana2_Manipulación_de_datos_primitivos.runtimeconfig.json
+C:\Users\SANTI\Documents\GitHub\ESTRUCTURA-DE-DATOS\Semana2_Manipulación_de_datos_primitivos\bin\Debug\net10.0\Semana2_Manipulación_de_datos_primitivos.dll
+C:\Users\SANTI\Documents\GitHub\ESTRUCTURA-DE-DATOS\Semana2_Manipulación_de_datos_primitivos\bin\Debug\net10.0\Semana2_Manipulación_de_datos_primitivos.pdb
+C:\Users\SANTI\Documents\GitHub\ESTRUCTURA-DE-DATOS\Semana2_Manipulación_de_datos_primitivos\obj\Debug\net10.0\Semana2_Manipulación_de_datos_primitivos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SANTI\Documents\GitHub\ESTRUCTURA-DE-DATOS\Semana2_Manipulación_de_datos_primitivos\obj\Debug\net10.0\Semana2_Manipulación_de_datos_primitivos.AssemblyInfoInputs.cache
+C:\Users\SANTI\Documents\GitHub\ESTRUCTURA-DE-DATOS\Semana2_Manipulación_de_datos_primitivos\obj\Debug\net10.0\Semana2_Manipulación_de_datos_primitivos.AssemblyInfo.cs
+C:\Users\SANTI\Documents\GitHub\ESTRUCTURA-DE-DATOS\Semana2_Manipulación_de_datos_primitivos\obj\Debug\net10.0\Semana2_Manipulación_de_datos_primitivos.csproj.CoreCompileInputs.cache
+C:\Users\SANTI\Documents\GitHub\ESTRUCTURA-DE-DATOS\Semana2_Manipulación_de_datos_primitivos\obj\Debug\net10.0\Semana2_Manipulación_de_datos_primitivos.sourcelink.json
+C:\Users\SANTI\Documents\GitHub\ESTRUCTURA-DE-DATOS\Semana2_Manipulación_de_datos_primitivos\obj\Debug\net10.0\Semana2_Manipulación_de_datos_primitivos.dll
+C:\Users\SANTI\Documents\GitHub\ESTRUCTURA-DE-DATOS\Semana2_Manipulación_de_datos_primitivos\obj\Debug\net10.0\refint\Semana2_Manipulación_de_datos_primitivos.dll
+C:\Users\SANTI\Documents\GitHub\ESTRUCTURA-DE-DATOS\Semana2_Manipulación_de_datos_primitivos\obj\Debug\net10.0\Semana2_Manipulación_de_datos_primitivos.pdb
+C:\Users\SANTI\Documents\GitHub\ESTRUCTURA-DE-DATOS\Semana2_Manipulación_de_datos_primitivos\obj\Debug\net10.0\Semana2_Manipulación_de_datos_primitivos.genruntimeconfig.cache
+C:\Users\SANTI\Documents\GitHub\ESTRUCTURA-DE-DATOS\Semana2_Manipulación_de_datos_primitivos\obj\Debug\net10.0\ref\Semana2_Manipulación_de_datos_primitivos.dll

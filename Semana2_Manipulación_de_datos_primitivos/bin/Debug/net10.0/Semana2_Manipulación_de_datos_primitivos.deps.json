@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Semana2_Manipulación_de_datos_primitivos/1.0.0": {
+        "runtime": {
+          "Semana2_Manipulación_de_datos_primitivos.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Semana2_Manipulación_de_datos_primitivos/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
