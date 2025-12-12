@@ -1,0 +1,15 @@
+C:\Users\SANTI\Documents\GitHub\ESTRUCTURA-DE-DATOS\Semana3_Arrays_Matrices\bin\Debug\net10.0\Semana3_Arrays_Matrices.exe
+C:\Users\SANTI\Documents\GitHub\ESTRUCTURA-DE-DATOS\Semana3_Arrays_Matrices\bin\Debug\net10.0\Semana3_Arrays_Matrices.deps.json
+C:\Users\SANTI\Documents\GitHub\ESTRUCTURA-DE-DATOS\Semana3_Arrays_Matrices\bin\Debug\net10.0\Semana3_Arrays_Matrices.runtimeconfig.json
+C:\Users\SANTI\Documents\GitHub\ESTRUCTURA-DE-DATOS\Semana3_Arrays_Matrices\bin\Debug\net10.0\Semana3_Arrays_Matrices.dll
+C:\Users\SANTI\Documents\GitHub\ESTRUCTURA-DE-DATOS\Semana3_Arrays_Matrices\bin\Debug\net10.0\Semana3_Arrays_Matrices.pdb
+C:\Users\SANTI\Documents\GitHub\ESTRUCTURA-DE-DATOS\Semana3_Arrays_Matrices\obj\Debug\net10.0\Semana3_Arrays_Matrices.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SANTI\Documents\GitHub\ESTRUCTURA-DE-DATOS\Semana3_Arrays_Matrices\obj\Debug\net10.0\Semana3_Arrays_Matrices.AssemblyInfoInputs.cache
+C:\Users\SANTI\Documents\GitHub\ESTRUCTURA-DE-DATOS\Semana3_Arrays_Matrices\obj\Debug\net10.0\Semana3_Arrays_Matrices.AssemblyInfo.cs
+C:\Users\SANTI\Documents\GitHub\ESTRUCTURA-DE-DATOS\Semana3_Arrays_Matrices\obj\Debug\net10.0\Semana3_Arrays_Matrices.csproj.CoreCompileInputs.cache
+C:\Users\SANTI\Documents\GitHub\ESTRUCTURA-DE-DATOS\Semana3_Arrays_Matrices\obj\Debug\net10.0\Semana3_Arrays_Matrices.sourcelink.json
+C:\Users\SANTI\Documents\GitHub\ESTRUCTURA-DE-DATOS\Semana3_Arrays_Matrices\obj\Debug\net10.0\Semana3_Arrays_Matrices.dll
+C:\Users\SANTI\Documents\GitHub\ESTRUCTURA-DE-DATOS\Semana3_Arrays_Matrices\obj\Debug\net10.0\refint\Semana3_Arrays_Matrices.dll
+C:\Users\SANTI\Documents\GitHub\ESTRUCTURA-DE-DATOS\Semana3_Arrays_Matrices\obj\Debug\net10.0\Semana3_Arrays_Matrices.pdb
+C:\Users\SANTI\Documents\GitHub\ESTRUCTURA-DE-DATOS\Semana3_Arrays_Matrices\obj\Debug\net10.0\Semana3_Arrays_Matrices.genruntimeconfig.cache
+C:\Users\SANTI\Documents\GitHub\ESTRUCTURA-DE-DATOS\Semana3_Arrays_Matrices\obj\Debug\net10.0\ref\Semana3_Arrays_Matrices.dll
