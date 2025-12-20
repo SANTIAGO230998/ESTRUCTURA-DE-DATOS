@@ -1,0 +1,15 @@
+C:\Users\SANTI\Documents\GitHub\ESTRUCTURA-DE-DATOS\Semana4_Estructuras_Registros\bin\Debug\net10.0\Semana4_Estructuras_Registros.exe
+C:\Users\SANTI\Documents\GitHub\ESTRUCTURA-DE-DATOS\Semana4_Estructuras_Registros\bin\Debug\net10.0\Semana4_Estructuras_Registros.deps.json
+C:\Users\SANTI\Documents\GitHub\ESTRUCTURA-DE-DATOS\Semana4_Estructuras_Registros\bin\Debug\net10.0\Semana4_Estructuras_Registros.runtimeconfig.json
+C:\Users\SANTI\Documents\GitHub\ESTRUCTURA-DE-DATOS\Semana4_Estructuras_Registros\bin\Debug\net10.0\Semana4_Estructuras_Registros.dll
+C:\Users\SANTI\Documents\GitHub\ESTRUCTURA-DE-DATOS\Semana4_Estructuras_Registros\bin\Debug\net10.0\Semana4_Estructuras_Registros.pdb
+C:\Users\SANTI\Documents\GitHub\ESTRUCTURA-DE-DATOS\Semana4_Estructuras_Registros\obj\Debug\net10.0\Semana4_Estructuras_Registros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SANTI\Documents\GitHub\ESTRUCTURA-DE-DATOS\Semana4_Estructuras_Registros\obj\Debug\net10.0\Semana4_Estructuras_Registros.AssemblyInfoInputs.cache
+C:\Users\SANTI\Documents\GitHub\ESTRUCTURA-DE-DATOS\Semana4_Estructuras_Registros\obj\Debug\net10.0\Semana4_Estructuras_Registros.AssemblyInfo.cs
+C:\Users\SANTI\Documents\GitHub\ESTRUCTURA-DE-DATOS\Semana4_Estructuras_Registros\obj\Debug\net10.0\Semana4_Estructuras_Registros.csproj.CoreCompileInputs.cache
+C:\Users\SANTI\Documents\GitHub\ESTRUCTURA-DE-DATOS\Semana4_Estructuras_Registros\obj\Debug\net10.0\Semana4_Estructuras_Registros.sourcelink.json
+C:\Users\SANTI\Documents\GitHub\ESTRUCTURA-DE-DATOS\Semana4_Estructuras_Registros\obj\Debug\net10.0\Semana4_Estructuras_Registros.dll
+C:\Users\SANTI\Documents\GitHub\ESTRUCTURA-DE-DATOS\Semana4_Estructuras_Registros\obj\Debug\net10.0\refint\Semana4_Estructuras_Registros.dll
+C:\Users\SANTI\Documents\GitHub\ESTRUCTURA-DE-DATOS\Semana4_Estructuras_Registros\obj\Debug\net10.0\Semana4_Estructuras_Registros.pdb
+C:\Users\SANTI\Documents\GitHub\ESTRUCTURA-DE-DATOS\Semana4_Estructuras_Registros\obj\Debug\net10.0\Semana4_Estructuras_Registros.genruntimeconfig.cache
+C:\Users\SANTI\Documents\GitHub\ESTRUCTURA-DE-DATOS\Semana4_Estructuras_Registros\obj\Debug\net10.0\ref\Semana4_Estructuras_Registros.dll
