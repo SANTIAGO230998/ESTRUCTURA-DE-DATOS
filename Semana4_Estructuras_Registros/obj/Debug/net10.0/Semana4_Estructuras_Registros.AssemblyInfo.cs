@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Semana4_Estructuras_Registros")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+099fc4d2c5d7eeb96885dc9791f5ed139c3d5fba")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6ccc64245e5ed2f4c96c28c19a4ec12ceea16654")]
 [assembly: System.Reflection.AssemblyProductAttribute("Semana4_Estructuras_Registros")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Semana4_Estructuras_Registros")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
