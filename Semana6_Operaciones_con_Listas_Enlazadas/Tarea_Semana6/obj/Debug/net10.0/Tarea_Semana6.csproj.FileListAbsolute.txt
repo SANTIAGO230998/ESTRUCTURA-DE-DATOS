@@ -1,0 +1,15 @@
+C:\Users\SANTI\Documents\GitHub\ESTRUCTURA-DE-DATOS\Semana6_Operaciones_con_Listas_Enlazadas\Tarea_Semana6\bin\Debug\net10.0\Tarea_Semana6.exe
+C:\Users\SANTI\Documents\GitHub\ESTRUCTURA-DE-DATOS\Semana6_Operaciones_con_Listas_Enlazadas\Tarea_Semana6\bin\Debug\net10.0\Tarea_Semana6.deps.json
+C:\Users\SANTI\Documents\GitHub\ESTRUCTURA-DE-DATOS\Semana6_Operaciones_con_Listas_Enlazadas\Tarea_Semana6\bin\Debug\net10.0\Tarea_Semana6.runtimeconfig.json
+C:\Users\SANTI\Documents\GitHub\ESTRUCTURA-DE-DATOS\Semana6_Operaciones_con_Listas_Enlazadas\Tarea_Semana6\bin\Debug\net10.0\Tarea_Semana6.dll
+C:\Users\SANTI\Documents\GitHub\ESTRUCTURA-DE-DATOS\Semana6_Operaciones_con_Listas_Enlazadas\Tarea_Semana6\bin\Debug\net10.0\Tarea_Semana6.pdb
+C:\Users\SANTI\Documents\GitHub\ESTRUCTURA-DE-DATOS\Semana6_Operaciones_con_Listas_Enlazadas\Tarea_Semana6\obj\Debug\net10.0\Tarea_Semana6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SANTI\Documents\GitHub\ESTRUCTURA-DE-DATOS\Semana6_Operaciones_con_Listas_Enlazadas\Tarea_Semana6\obj\Debug\net10.0\Tarea_Semana6.AssemblyInfoInputs.cache
+C:\Users\SANTI\Documents\GitHub\ESTRUCTURA-DE-DATOS\Semana6_Operaciones_con_Listas_Enlazadas\Tarea_Semana6\obj\Debug\net10.0\Tarea_Semana6.AssemblyInfo.cs
+C:\Users\SANTI\Documents\GitHub\ESTRUCTURA-DE-DATOS\Semana6_Operaciones_con_Listas_Enlazadas\Tarea_Semana6\obj\Debug\net10.0\Tarea_Semana6.csproj.CoreCompileInputs.cache
+C:\Users\SANTI\Documents\GitHub\ESTRUCTURA-DE-DATOS\Semana6_Operaciones_con_Listas_Enlazadas\Tarea_Semana6\obj\Debug\net10.0\Tarea_Semana6.sourcelink.json
+C:\Users\SANTI\Documents\GitHub\ESTRUCTURA-DE-DATOS\Semana6_Operaciones_con_Listas_Enlazadas\Tarea_Semana6\obj\Debug\net10.0\Tarea_Semana6.dll
+C:\Users\SANTI\Documents\GitHub\ESTRUCTURA-DE-DATOS\Semana6_Operaciones_con_Listas_Enlazadas\Tarea_Semana6\obj\Debug\net10.0\refint\Tarea_Semana6.dll
+C:\Users\SANTI\Documents\GitHub\ESTRUCTURA-DE-DATOS\Semana6_Operaciones_con_Listas_Enlazadas\Tarea_Semana6\obj\Debug\net10.0\Tarea_Semana6.pdb
+C:\Users\SANTI\Documents\GitHub\ESTRUCTURA-DE-DATOS\Semana6_Operaciones_con_Listas_Enlazadas\Tarea_Semana6\obj\Debug\net10.0\Tarea_Semana6.genruntimeconfig.cache
+C:\Users\SANTI\Documents\GitHub\ESTRUCTURA-DE-DATOS\Semana6_Operaciones_con_Listas_Enlazadas\Tarea_Semana6\obj\Debug\net10.0\ref\Tarea_Semana6.dll
