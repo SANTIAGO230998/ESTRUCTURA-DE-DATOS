@@ -1,0 +1,15 @@
+C:\Users\SANTI\Documents\GitHub\ESTRUCTURA-DE-DATOS\Semana7_Pilas\1. Fórmula_Balanceada\bin\Debug\net10.0\Fórmula_Balanceada.exe
+C:\Users\SANTI\Documents\GitHub\ESTRUCTURA-DE-DATOS\Semana7_Pilas\1. Fórmula_Balanceada\bin\Debug\net10.0\Fórmula_Balanceada.deps.json
+C:\Users\SANTI\Documents\GitHub\ESTRUCTURA-DE-DATOS\Semana7_Pilas\1. Fórmula_Balanceada\bin\Debug\net10.0\Fórmula_Balanceada.runtimeconfig.json
+C:\Users\SANTI\Documents\GitHub\ESTRUCTURA-DE-DATOS\Semana7_Pilas\1. Fórmula_Balanceada\bin\Debug\net10.0\Fórmula_Balanceada.dll
+C:\Users\SANTI\Documents\GitHub\ESTRUCTURA-DE-DATOS\Semana7_Pilas\1. Fórmula_Balanceada\bin\Debug\net10.0\Fórmula_Balanceada.pdb
+C:\Users\SANTI\Documents\GitHub\ESTRUCTURA-DE-DATOS\Semana7_Pilas\1. Fórmula_Balanceada\obj\Debug\net10.0\Fórmula_Balanceada.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SANTI\Documents\GitHub\ESTRUCTURA-DE-DATOS\Semana7_Pilas\1. Fórmula_Balanceada\obj\Debug\net10.0\Fórmula_Balanceada.AssemblyInfoInputs.cache
+C:\Users\SANTI\Documents\GitHub\ESTRUCTURA-DE-DATOS\Semana7_Pilas\1. Fórmula_Balanceada\obj\Debug\net10.0\Fórmula_Balanceada.AssemblyInfo.cs
+C:\Users\SANTI\Documents\GitHub\ESTRUCTURA-DE-DATOS\Semana7_Pilas\1. Fórmula_Balanceada\obj\Debug\net10.0\Fórmula_Balanceada.csproj.CoreCompileInputs.cache
+C:\Users\SANTI\Documents\GitHub\ESTRUCTURA-DE-DATOS\Semana7_Pilas\1. Fórmula_Balanceada\obj\Debug\net10.0\Fórmula_Balanceada.sourcelink.json
+C:\Users\SANTI\Documents\GitHub\ESTRUCTURA-DE-DATOS\Semana7_Pilas\1. Fórmula_Balanceada\obj\Debug\net10.0\Fórmula_Balanceada.dll
+C:\Users\SANTI\Documents\GitHub\ESTRUCTURA-DE-DATOS\Semana7_Pilas\1. Fórmula_Balanceada\obj\Debug\net10.0\refint\Fórmula_Balanceada.dll
+C:\Users\SANTI\Documents\GitHub\ESTRUCTURA-DE-DATOS\Semana7_Pilas\1. Fórmula_Balanceada\obj\Debug\net10.0\Fórmula_Balanceada.pdb
+C:\Users\SANTI\Documents\GitHub\ESTRUCTURA-DE-DATOS\Semana7_Pilas\1. Fórmula_Balanceada\obj\Debug\net10.0\Fórmula_Balanceada.genruntimeconfig.cache
+C:\Users\SANTI\Documents\GitHub\ESTRUCTURA-DE-DATOS\Semana7_Pilas\1. Fórmula_Balanceada\obj\Debug\net10.0\ref\Fórmula_Balanceada.dll

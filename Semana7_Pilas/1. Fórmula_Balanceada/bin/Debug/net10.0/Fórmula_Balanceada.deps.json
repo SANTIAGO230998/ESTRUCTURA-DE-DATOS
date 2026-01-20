@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Fórmula_Balanceada/1.0.0": {
+        "runtime": {
+          "Fórmula_Balanceada.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Fórmula_Balanceada/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

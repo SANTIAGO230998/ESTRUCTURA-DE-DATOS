@@ -1,0 +1,15 @@
+C:\Users\SANTI\Documents\GitHub\ESTRUCTURA-DE-DATOS\Semana7_Pilas\bin\Debug\net10.0\Semana7_Pilas.exe
+C:\Users\SANTI\Documents\GitHub\ESTRUCTURA-DE-DATOS\Semana7_Pilas\bin\Debug\net10.0\Semana7_Pilas.deps.json
+C:\Users\SANTI\Documents\GitHub\ESTRUCTURA-DE-DATOS\Semana7_Pilas\bin\Debug\net10.0\Semana7_Pilas.runtimeconfig.json
+C:\Users\SANTI\Documents\GitHub\ESTRUCTURA-DE-DATOS\Semana7_Pilas\bin\Debug\net10.0\Semana7_Pilas.dll
+C:\Users\SANTI\Documents\GitHub\ESTRUCTURA-DE-DATOS\Semana7_Pilas\bin\Debug\net10.0\Semana7_Pilas.pdb
+C:\Users\SANTI\Documents\GitHub\ESTRUCTURA-DE-DATOS\Semana7_Pilas\obj\Debug\net10.0\Semana7_Pilas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SANTI\Documents\GitHub\ESTRUCTURA-DE-DATOS\Semana7_Pilas\obj\Debug\net10.0\Semana7_Pilas.AssemblyInfoInputs.cache
+C:\Users\SANTI\Documents\GitHub\ESTRUCTURA-DE-DATOS\Semana7_Pilas\obj\Debug\net10.0\Semana7_Pilas.AssemblyInfo.cs
+C:\Users\SANTI\Documents\GitHub\ESTRUCTURA-DE-DATOS\Semana7_Pilas\obj\Debug\net10.0\Semana7_Pilas.csproj.CoreCompileInputs.cache
+C:\Users\SANTI\Documents\GitHub\ESTRUCTURA-DE-DATOS\Semana7_Pilas\obj\Debug\net10.0\Semana7_Pilas.sourcelink.json
+C:\Users\SANTI\Documents\GitHub\ESTRUCTURA-DE-DATOS\Semana7_Pilas\obj\Debug\net10.0\Semana7_Pilas.dll
+C:\Users\SANTI\Documents\GitHub\ESTRUCTURA-DE-DATOS\Semana7_Pilas\obj\Debug\net10.0\refint\Semana7_Pilas.dll
+C:\Users\SANTI\Documents\GitHub\ESTRUCTURA-DE-DATOS\Semana7_Pilas\obj\Debug\net10.0\Semana7_Pilas.pdb
+C:\Users\SANTI\Documents\GitHub\ESTRUCTURA-DE-DATOS\Semana7_Pilas\obj\Debug\net10.0\Semana7_Pilas.genruntimeconfig.cache
+C:\Users\SANTI\Documents\GitHub\ESTRUCTURA-DE-DATOS\Semana7_Pilas\obj\Debug\net10.0\ref\Semana7_Pilas.dll
