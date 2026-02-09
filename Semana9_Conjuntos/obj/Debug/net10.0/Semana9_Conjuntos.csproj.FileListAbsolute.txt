@@ -1,0 +1,15 @@
+C:\Users\SANTI\Documents\GitHub\ESTRUCTURA-DE-DATOS\Semana9_Conjuntos\bin\Debug\net10.0\Semana9_Conjuntos.exe
+C:\Users\SANTI\Documents\GitHub\ESTRUCTURA-DE-DATOS\Semana9_Conjuntos\bin\Debug\net10.0\Semana9_Conjuntos.deps.json
+C:\Users\SANTI\Documents\GitHub\ESTRUCTURA-DE-DATOS\Semana9_Conjuntos\bin\Debug\net10.0\Semana9_Conjuntos.runtimeconfig.json
+C:\Users\SANTI\Documents\GitHub\ESTRUCTURA-DE-DATOS\Semana9_Conjuntos\bin\Debug\net10.0\Semana9_Conjuntos.dll
+C:\Users\SANTI\Documents\GitHub\ESTRUCTURA-DE-DATOS\Semana9_Conjuntos\bin\Debug\net10.0\Semana9_Conjuntos.pdb
+C:\Users\SANTI\Documents\GitHub\ESTRUCTURA-DE-DATOS\Semana9_Conjuntos\obj\Debug\net10.0\Semana9_Conjuntos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SANTI\Documents\GitHub\ESTRUCTURA-DE-DATOS\Semana9_Conjuntos\obj\Debug\net10.0\Semana9_Conjuntos.AssemblyInfoInputs.cache
+C:\Users\SANTI\Documents\GitHub\ESTRUCTURA-DE-DATOS\Semana9_Conjuntos\obj\Debug\net10.0\Semana9_Conjuntos.AssemblyInfo.cs
+C:\Users\SANTI\Documents\GitHub\ESTRUCTURA-DE-DATOS\Semana9_Conjuntos\obj\Debug\net10.0\Semana9_Conjuntos.csproj.CoreCompileInputs.cache
+C:\Users\SANTI\Documents\GitHub\ESTRUCTURA-DE-DATOS\Semana9_Conjuntos\obj\Debug\net10.0\Semana9_Conjuntos.sourcelink.json
+C:\Users\SANTI\Documents\GitHub\ESTRUCTURA-DE-DATOS\Semana9_Conjuntos\obj\Debug\net10.0\Semana9_Conjuntos.dll
+C:\Users\SANTI\Documents\GitHub\ESTRUCTURA-DE-DATOS\Semana9_Conjuntos\obj\Debug\net10.0\refint\Semana9_Conjuntos.dll
+C:\Users\SANTI\Documents\GitHub\ESTRUCTURA-DE-DATOS\Semana9_Conjuntos\obj\Debug\net10.0\Semana9_Conjuntos.pdb
+C:\Users\SANTI\Documents\GitHub\ESTRUCTURA-DE-DATOS\Semana9_Conjuntos\obj\Debug\net10.0\Semana9_Conjuntos.genruntimeconfig.cache
+C:\Users\SANTI\Documents\GitHub\ESTRUCTURA-DE-DATOS\Semana9_Conjuntos\obj\Debug\net10.0\ref\Semana9_Conjuntos.dll
