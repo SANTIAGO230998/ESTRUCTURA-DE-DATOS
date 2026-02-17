@@ -1,0 +1,15 @@
+C:\Users\SANTI\Documents\GitHub\ESTRUCTURA-DE-DATOS\Semana10_Teoría_Conjuntos\bin\Debug\net10.0\Semana10_Teoría_Conjuntos.exe
+C:\Users\SANTI\Documents\GitHub\ESTRUCTURA-DE-DATOS\Semana10_Teoría_Conjuntos\bin\Debug\net10.0\Semana10_Teoría_Conjuntos.deps.json
+C:\Users\SANTI\Documents\GitHub\ESTRUCTURA-DE-DATOS\Semana10_Teoría_Conjuntos\bin\Debug\net10.0\Semana10_Teoría_Conjuntos.runtimeconfig.json
+C:\Users\SANTI\Documents\GitHub\ESTRUCTURA-DE-DATOS\Semana10_Teoría_Conjuntos\bin\Debug\net10.0\Semana10_Teoría_Conjuntos.dll
+C:\Users\SANTI\Documents\GitHub\ESTRUCTURA-DE-DATOS\Semana10_Teoría_Conjuntos\bin\Debug\net10.0\Semana10_Teoría_Conjuntos.pdb
+C:\Users\SANTI\Documents\GitHub\ESTRUCTURA-DE-DATOS\Semana10_Teoría_Conjuntos\obj\Debug\net10.0\Semana10_Teoría_Conjuntos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SANTI\Documents\GitHub\ESTRUCTURA-DE-DATOS\Semana10_Teoría_Conjuntos\obj\Debug\net10.0\Semana10_Teoría_Conjuntos.AssemblyInfoInputs.cache
+C:\Users\SANTI\Documents\GitHub\ESTRUCTURA-DE-DATOS\Semana10_Teoría_Conjuntos\obj\Debug\net10.0\Semana10_Teoría_Conjuntos.AssemblyInfo.cs
+C:\Users\SANTI\Documents\GitHub\ESTRUCTURA-DE-DATOS\Semana10_Teoría_Conjuntos\obj\Debug\net10.0\Semana10_Teoría_Conjuntos.csproj.CoreCompileInputs.cache
+C:\Users\SANTI\Documents\GitHub\ESTRUCTURA-DE-DATOS\Semana10_Teoría_Conjuntos\obj\Debug\net10.0\Semana10_Teoría_Conjuntos.sourcelink.json
+C:\Users\SANTI\Documents\GitHub\ESTRUCTURA-DE-DATOS\Semana10_Teoría_Conjuntos\obj\Debug\net10.0\Semana10_Teoría_Conjuntos.dll
+C:\Users\SANTI\Documents\GitHub\ESTRUCTURA-DE-DATOS\Semana10_Teoría_Conjuntos\obj\Debug\net10.0\refint\Semana10_Teoría_Conjuntos.dll
+C:\Users\SANTI\Documents\GitHub\ESTRUCTURA-DE-DATOS\Semana10_Teoría_Conjuntos\obj\Debug\net10.0\Semana10_Teoría_Conjuntos.pdb
+C:\Users\SANTI\Documents\GitHub\ESTRUCTURA-DE-DATOS\Semana10_Teoría_Conjuntos\obj\Debug\net10.0\Semana10_Teoría_Conjuntos.genruntimeconfig.cache
+C:\Users\SANTI\Documents\GitHub\ESTRUCTURA-DE-DATOS\Semana10_Teoría_Conjuntos\obj\Debug\net10.0\ref\Semana10_Teoría_Conjuntos.dll
