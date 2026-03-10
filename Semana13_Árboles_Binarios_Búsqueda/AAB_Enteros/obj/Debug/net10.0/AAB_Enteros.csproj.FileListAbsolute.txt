@@ -1,0 +1,15 @@
+C:\Users\SANTI\Documents\GitHub\ESTRUCTURA-DE-DATOS\Semana13_Árboles_Binarios_Búsqueda\AAB_Enteros\bin\Debug\net10.0\AAB_Enteros.exe
+C:\Users\SANTI\Documents\GitHub\ESTRUCTURA-DE-DATOS\Semana13_Árboles_Binarios_Búsqueda\AAB_Enteros\bin\Debug\net10.0\AAB_Enteros.deps.json
+C:\Users\SANTI\Documents\GitHub\ESTRUCTURA-DE-DATOS\Semana13_Árboles_Binarios_Búsqueda\AAB_Enteros\bin\Debug\net10.0\AAB_Enteros.runtimeconfig.json
+C:\Users\SANTI\Documents\GitHub\ESTRUCTURA-DE-DATOS\Semana13_Árboles_Binarios_Búsqueda\AAB_Enteros\bin\Debug\net10.0\AAB_Enteros.dll
+C:\Users\SANTI\Documents\GitHub\ESTRUCTURA-DE-DATOS\Semana13_Árboles_Binarios_Búsqueda\AAB_Enteros\bin\Debug\net10.0\AAB_Enteros.pdb
+C:\Users\SANTI\Documents\GitHub\ESTRUCTURA-DE-DATOS\Semana13_Árboles_Binarios_Búsqueda\AAB_Enteros\obj\Debug\net10.0\AAB_Enteros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SANTI\Documents\GitHub\ESTRUCTURA-DE-DATOS\Semana13_Árboles_Binarios_Búsqueda\AAB_Enteros\obj\Debug\net10.0\AAB_Enteros.AssemblyInfoInputs.cache
+C:\Users\SANTI\Documents\GitHub\ESTRUCTURA-DE-DATOS\Semana13_Árboles_Binarios_Búsqueda\AAB_Enteros\obj\Debug\net10.0\AAB_Enteros.AssemblyInfo.cs
+C:\Users\SANTI\Documents\GitHub\ESTRUCTURA-DE-DATOS\Semana13_Árboles_Binarios_Búsqueda\AAB_Enteros\obj\Debug\net10.0\AAB_Enteros.csproj.CoreCompileInputs.cache
+C:\Users\SANTI\Documents\GitHub\ESTRUCTURA-DE-DATOS\Semana13_Árboles_Binarios_Búsqueda\AAB_Enteros\obj\Debug\net10.0\AAB_Enteros.sourcelink.json
+C:\Users\SANTI\Documents\GitHub\ESTRUCTURA-DE-DATOS\Semana13_Árboles_Binarios_Búsqueda\AAB_Enteros\obj\Debug\net10.0\AAB_Enteros.dll
+C:\Users\SANTI\Documents\GitHub\ESTRUCTURA-DE-DATOS\Semana13_Árboles_Binarios_Búsqueda\AAB_Enteros\obj\Debug\net10.0\refint\AAB_Enteros.dll
+C:\Users\SANTI\Documents\GitHub\ESTRUCTURA-DE-DATOS\Semana13_Árboles_Binarios_Búsqueda\AAB_Enteros\obj\Debug\net10.0\AAB_Enteros.pdb
+C:\Users\SANTI\Documents\GitHub\ESTRUCTURA-DE-DATOS\Semana13_Árboles_Binarios_Búsqueda\AAB_Enteros\obj\Debug\net10.0\AAB_Enteros.genruntimeconfig.cache
+C:\Users\SANTI\Documents\GitHub\ESTRUCTURA-DE-DATOS\Semana13_Árboles_Binarios_Búsqueda\AAB_Enteros\obj\Debug\net10.0\ref\AAB_Enteros.dll
