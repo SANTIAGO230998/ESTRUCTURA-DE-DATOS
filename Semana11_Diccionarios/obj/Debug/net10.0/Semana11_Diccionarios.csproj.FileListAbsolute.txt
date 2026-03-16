@@ -1,5 +1,0 @@
-C:\Users\SANTI\Documents\GitHub\ESTRUCTURA-DE-DATOS\Semana11_Diccionarios\obj\Debug\net10.0\Semana11_Diccionarios.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\SANTI\Documents\GitHub\ESTRUCTURA-DE-DATOS\Semana11_Diccionarios\obj\Debug\net10.0\Semana11_Diccionarios.AssemblyInfoInputs.cache
-C:\Users\SANTI\Documents\GitHub\ESTRUCTURA-DE-DATOS\Semana11_Diccionarios\obj\Debug\net10.0\Semana11_Diccionarios.AssemblyInfo.cs
-C:\Users\SANTI\Documents\GitHub\ESTRUCTURA-DE-DATOS\Semana11_Diccionarios\obj\Debug\net10.0\Semana11_Diccionarios.csproj.CoreCompileInputs.cache
-C:\Users\SANTI\Documents\GitHub\ESTRUCTURA-DE-DATOS\Semana11_Diccionarios\obj\Debug\net10.0\Semana11_Diccionarios.sourcelink.json

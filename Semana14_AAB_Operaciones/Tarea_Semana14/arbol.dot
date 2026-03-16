@@ -1,0 +1,4 @@
+digraph BST {
+node [shape=circle, fontname="Arial"];
+empty [label="Árbol vacío"];
+}
