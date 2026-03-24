@@ -1,0 +1,6 @@
+GerenciaEducativa,Aprendizaje,L
+GerenciaEducativa,Administracion,R
+Aprendizaje,Docentes,L
+Aprendizaje,Estudiantes,R
+Administracion,Finanzas,L
+Administracion,Logistica,R

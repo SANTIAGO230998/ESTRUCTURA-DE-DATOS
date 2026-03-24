@@ -1,0 +1,15 @@
+C:\Users\SANTI\Documents\GitHub\ESTRUCTURA-DE-DATOS\PracticoExperimental4_Gráfica_de_Árboles\bin\Debug\net10.0\PracticoExperimental4_Gráfica_de_Árboles.exe
+C:\Users\SANTI\Documents\GitHub\ESTRUCTURA-DE-DATOS\PracticoExperimental4_Gráfica_de_Árboles\bin\Debug\net10.0\PracticoExperimental4_Gráfica_de_Árboles.deps.json
+C:\Users\SANTI\Documents\GitHub\ESTRUCTURA-DE-DATOS\PracticoExperimental4_Gráfica_de_Árboles\bin\Debug\net10.0\PracticoExperimental4_Gráfica_de_Árboles.runtimeconfig.json
+C:\Users\SANTI\Documents\GitHub\ESTRUCTURA-DE-DATOS\PracticoExperimental4_Gráfica_de_Árboles\bin\Debug\net10.0\PracticoExperimental4_Gráfica_de_Árboles.dll
+C:\Users\SANTI\Documents\GitHub\ESTRUCTURA-DE-DATOS\PracticoExperimental4_Gráfica_de_Árboles\bin\Debug\net10.0\PracticoExperimental4_Gráfica_de_Árboles.pdb
+C:\Users\SANTI\Documents\GitHub\ESTRUCTURA-DE-DATOS\PracticoExperimental4_Gráfica_de_Árboles\obj\Debug\net10.0\PracticoExperimental4_Gráfica_de_Árboles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SANTI\Documents\GitHub\ESTRUCTURA-DE-DATOS\PracticoExperimental4_Gráfica_de_Árboles\obj\Debug\net10.0\PracticoExperimental4_Gráfica_de_Árboles.AssemblyInfoInputs.cache
+C:\Users\SANTI\Documents\GitHub\ESTRUCTURA-DE-DATOS\PracticoExperimental4_Gráfica_de_Árboles\obj\Debug\net10.0\PracticoExperimental4_Gráfica_de_Árboles.AssemblyInfo.cs
+C:\Users\SANTI\Documents\GitHub\ESTRUCTURA-DE-DATOS\PracticoExperimental4_Gráfica_de_Árboles\obj\Debug\net10.0\PracticoExperimental4_Gráfica_de_Árboles.csproj.CoreCompileInputs.cache
+C:\Users\SANTI\Documents\GitHub\ESTRUCTURA-DE-DATOS\PracticoExperimental4_Gráfica_de_Árboles\obj\Debug\net10.0\PracticoExperimental4_Gráfica_de_Árboles.sourcelink.json
+C:\Users\SANTI\Documents\GitHub\ESTRUCTURA-DE-DATOS\PracticoExperimental4_Gráfica_de_Árboles\obj\Debug\net10.0\PracticoExperimental4_Gráfica_de_Árboles.dll
+C:\Users\SANTI\Documents\GitHub\ESTRUCTURA-DE-DATOS\PracticoExperimental4_Gráfica_de_Árboles\obj\Debug\net10.0\refint\PracticoExperimental4_Gráfica_de_Árboles.dll
+C:\Users\SANTI\Documents\GitHub\ESTRUCTURA-DE-DATOS\PracticoExperimental4_Gráfica_de_Árboles\obj\Debug\net10.0\PracticoExperimental4_Gráfica_de_Árboles.pdb
+C:\Users\SANTI\Documents\GitHub\ESTRUCTURA-DE-DATOS\PracticoExperimental4_Gráfica_de_Árboles\obj\Debug\net10.0\PracticoExperimental4_Gráfica_de_Árboles.genruntimeconfig.cache
+C:\Users\SANTI\Documents\GitHub\ESTRUCTURA-DE-DATOS\PracticoExperimental4_Gráfica_de_Árboles\obj\Debug\net10.0\ref\PracticoExperimental4_Gráfica_de_Árboles.dll

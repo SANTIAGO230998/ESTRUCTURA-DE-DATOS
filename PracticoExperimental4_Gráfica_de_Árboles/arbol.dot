@@ -1,0 +1,16 @@
+digraph BinaryTree {
+node [shape=circle, fontname="Arial"];
+"GerenciaEducativa";
+"GerenciaEducativa" -> "Aprendizaje" [label="L"];
+"Aprendizaje";
+"Aprendizaje" -> "Docentes" [label="L"];
+"Docentes";
+"Aprendizaje" -> "Estudiantes" [label="R"];
+"Estudiantes";
+"GerenciaEducativa" -> "Administracion" [label="R"];
+"Administracion";
+"Administracion" -> "Finanzas" [label="L"];
+"Finanzas";
+"Administracion" -> "Logistica" [label="R"];
+"Logistica";
+}

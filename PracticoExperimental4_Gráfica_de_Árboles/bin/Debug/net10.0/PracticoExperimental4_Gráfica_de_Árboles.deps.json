@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "PracticoExperimental4_Gráfica_de_Árboles/1.0.0": {
+        "runtime": {
+          "PracticoExperimental4_Gráfica_de_Árboles.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PracticoExperimental4_Gráfica_de_Árboles/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,6 @@
+Abuelo,Padre,L
+Abuelo,Tio,R
+Padre,Hijo1,L
+Padre,Hijo2,R
+Tio,Primo1,L
+Tio,Prima1,R
